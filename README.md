@@ -57,7 +57,7 @@ That's it. ~10 hours a week, 6% of your waking life. If you read that and though
 
 ### Step 1: Run the Health Strategy Interview (One-Time)
 
-Start a new [Claude project](https://claude.ai), open a conversation, and say **"Set up my health plan."** Claude interviews you — photos, stats, goals, constraints — then generates your personalized plan (calories, macros, training, supplements). Paste the output into your project's instructions. Done once.
+Start a new [Claude project](https://claude.ai), open a conversation, and say **"Set up my health plan."** Claude interviews you and generates your personalized plan. Paste the output into your project's instructions. Done once.
 
 ### Step 2: Use Daily Macros as Your Daily Driver
 
