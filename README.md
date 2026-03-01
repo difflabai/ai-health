@@ -1,8 +1,10 @@
+# 🧬 AI Health
+
 <p align="center">
-  <img src="logo.png" alt="Get Healthy With Claude" width="600">
+  <img src="logo.png" alt="AI Health" width="600">
 </p>
 
-# Get Healthy With Claude
+## Get Healthy With Claude
 
 Hollywood stars had live-in chefs. Elite athletes had full-time trainers five days a week. And they were *less* effective than what you're about to set up in 30 minutes.
 
