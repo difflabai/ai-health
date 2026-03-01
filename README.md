@@ -52,25 +52,12 @@ That's it. ~10 hours a week, 6% of your waking life. If you read that and though
 
 ### What You Need
 
-- A Claude account (free works, but Pro is better for daily use — higher message limits)
-- 30 minutes for the initial setup conversation
-- Photos of yourself (front + side, shirtless or fitted clothing) for body fat estimation
-- Your basic stats: age, sex, height, current weight
+- A Claude account (free works, Pro is better — higher message limits)
+- 30 minutes, photos of yourself (front + side), and your basic stats (age, sex, height, weight)
 
-### Step 1: Run the Health Strategy Interview (One-Time Setup)
+### Step 1: Run the Health Strategy Interview (One-Time)
 
-This skill is your project builder. It interviews you once and generates your complete, personalized health plan.
-
-1. Start a new [Claude project](https://claude.ai) — this will be your persistent health workspace
-2. Open a conversation in that project and type: **"Set up my health plan"**
-3. Claude will walk you through the interview:
-   - It'll ask for photos and stats first
-   - Then goals, equipment, schedule, constraints
-   - It'll confirm its understanding before generating anything
-4. At the end, Claude produces your personalized health plan — calorie targets, macro splits, training program, and supplement schedule
-5. **Paste the generated plan into your project's instructions** — this is what makes every future conversation in that project aware of your targets
-
-You only run this skill once (or again when you're ready for a new phase).
+Start a new [Claude project](https://claude.ai), open a conversation, and say **"Set up my health plan."** Claude interviews you — photos, stats, goals, constraints — then generates your personalized plan (calories, macros, training, supplements). Paste the output into your project's instructions. Done once.
 
 ### Step 2: Use Daily Macros as Your Daily Driver
 
