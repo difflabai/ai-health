@@ -76,6 +76,17 @@ It runs a mathematical solver that tells you exactly how many grams of each ingr
 
 ---
 
+## Installation
+
+1. Go to [claude.ai/customize/skills](https://claude.ai/customize/skills)
+2. Upload both `.skill` files from this repo:
+   - [`health-strategy.skill`](health-strategy.skill) — one-time setup interview
+   - [`daily-macros.skill`](daily-macros.skill) — daily macro tracker and meal solver
+
+That's it. Both skills are now available in every Claude conversation.
+
+---
+
 ## Setup Guide (Step by Step)
 
 ### What You Need
@@ -87,22 +98,29 @@ It runs a mathematical solver that tells you exactly how many grams of each ingr
 
 ### Step 1: Run the Health Strategy Interview (One-Time Setup)
 
-1. Install the [`health-strategy.skill`](health-strategy.skill) skill
-2. Start a conversation and type: **"Set up my health plan"**
+This skill is your project builder. It interviews you once and generates your complete, personalized health plan.
+
+1. Start a new [Claude project](https://claude.ai) — this will be your persistent health workspace
+2. Open a conversation in that project and type: **"Set up my health plan"**
 3. Claude will walk you through the interview:
    - It'll ask for photos and stats first
    - Then goals, equipment, schedule, constraints
    - It'll confirm its understanding before generating anything
-4. At the end, Claude will produce your personalized health plan — calorie targets, macro splits, training program, and supplement schedule
+4. At the end, Claude produces your personalized health plan — calorie targets, macro splits, training program, and supplement schedule
+5. **Paste the generated plan into your project's instructions** — this is what makes every future conversation in that project aware of your targets
 
-### Step 2: Start Using It Daily
+You only run this skill once (or again when you're ready for a new phase).
 
-Install the [`daily-macros.skill`](daily-macros.skill) skill, then open a conversation anytime you want to track food:
+### Step 2: Use Daily Macros as Your Daily Driver
+
+This is the skill you'll use every day. Open a conversation in your project anytime you eat:
 
 - **"Count my macros: [list what you ate]"**
 - **"Solve my last meal"** (after counting, to figure out your final meal)
 - **"Solve my last meal with chicken, rice, and almonds"** (if you want to specify ingredients)
 - **"Ate: [food list]. Solve remaining with chicken, rice, almonds"** (count + solve in one shot)
+
+Because your health plan is in the project instructions, every conversation already knows your calorie and macro targets. You just talk to it.
 
 That's it. You're running the system.
 
