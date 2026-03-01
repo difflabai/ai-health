@@ -4,6 +4,12 @@ A complete health optimization system powered by Claude. It builds your personal
 
 **This is not an app.** It's a Claude Project — a persistent AI workspace with your health plan baked into its instructions. You talk to it in plain English. It does the math.
 
+### Why this works
+
+Most plans make you eat from a fixed meal list. This one doesn't. You eat whatever you want — the solver tells you exactly how to hit your targets with your final meal. Had pizza for lunch? Fine. The math still closes. That flexibility is why people actually stick with it.
+
+Total time cost: ~10 hours a week. Three hours training, a few hours cooking, a few minutes a day talking to Claude. That's it. No meal prep Sundays. No spreadsheet wrestling. No willpower-dependent decisions about what to eat — just data and a solver that does the algebra for you.
+
 ---
 
 ## Before You Start: The Commitments
@@ -34,7 +40,7 @@ This system works. But it only works if you do. Read these commitments carefully
 
 ### The Honest Truth
 
-This system asks for 5-7 hours per week of your life: 3 hours training, 15 minutes daily tracking, 2-3 hours meal prep. That's 3-4% of your waking hours.
+This system asks for about 10 hours per week of your life: 3 hours training, 15 minutes daily tracking, 2-3 hours meal prep, and the rest is sleep discipline and showing up. That's roughly 6% of your waking hours.
 
 In exchange, you get a body that works better, a brain that works better, more energy, better sleep, and a relationship with food based on data instead of guilt. The ROI is absurd. But only if you actually do it.
 
