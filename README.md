@@ -12,39 +12,16 @@ Total time cost: ~10 hours a week. Three hours training, a few hours cooking, a 
 
 ---
 
-## Before You Start: The Commitments
+## What You're Signing Up For
 
-This system works. But it only works if you do. Read these commitments carefully. If you can't honestly say yes to at least the first five, this isn't the right time — and that's fine. Come back when you're ready.
+- [ ] **Train 3x per week.** Same simple workout every time. Just show up.
+- [ ] **Track your food daily for 90 days.** Tell Claude what you ate. 2 minutes.
+- [ ] **Buy a kitchen scale.** $12. This is how you stop lying to yourself about portions.
+- [ ] **Weigh yourself weekly.** Same day, same time, morning. One data point. Don't obsess.
+- [ ] **Sleep 7+ hours.** You can't out-train bad sleep.
+- [ ] **Stick with it for 6 months.** Not perfectly — consistently. One bad day in 180 is noise.
 
-### Non-Negotiable (The System Breaks Without These)
-
-1. **3+ hours per week of training.** Three sessions, ~60 minutes each. You pick the days. You show up. Rain or shine, motivated or not. The program is designed to be the same simple workout every time — your only decision is whether to walk through the door.
-
-2. **Daily food tracking for at least 90 days.** You will weigh your food with a kitchen scale and tell Claude what you ate. This takes 2-3 minutes per day. It feels tedious at first. By week 3 it's automatic. By month 3 you can eyeball portions and only spot-check with the scale. But you earn that intuition — you don't start with it.
-
-3. **A kitchen scale.** $12 on Amazon. Non-negotiable. Eyeballing portions is how people eat 300-500 calories more than they think and wonder why nothing's changing. The scale is the single highest-ROI purchase in this entire system.
-
-4. **Weekly weigh-ins.** Same day, same time, morning, after bathroom, before food. One number per week. You don't obsess over it. You use it as a data point to calibrate the system. If the trend isn't matching the target after 2-3 weeks, you adjust by 100-150 calories. That's it.
-
-5. **6 months of consistency.** Not perfection — consistency. You will miss workouts. You will eat off-plan. You will have bad weeks. The system accounts for this. What matters is that you don't quit after a bad week. You just open Claude the next morning and say "count my macros" like nothing happened. Because nothing did — one bad day in 180 is noise.
-
-### Strongly Recommended (The System Works Better With These)
-
-6. **7+ hours of sleep per night.** Sleep is when your body actually builds muscle and regulates hunger hormones. Training on 5 hours of sleep is driving with the parking brake on. You can't out-supplement or out-train bad sleep. If you're consistently under 6 hours, fix that before optimizing anything else.
-
-7. **Progress photos every 2 weeks.** Front and side, same lighting, same time of day. The mirror lies. The scale fluctuates. Photos don't. Looking back at week 1 from week 12 is rocket fuel for motivation. You don't have to share them — they're for you.
-
-8. **A supplement budget of ~$45-80/month.** The core stack (creatine, vitamin D, magnesium, fish oil) costs ~$45-60/month. Condition-specific additions add $15-30. You can start with just creatine ($10/month) and add from there. Supplements are the least important thing on this list — but they're the easiest marginal gain available.
-
-9. **Cooking or meal prep capability.** You don't need to be a chef. You need to be able to cook chicken, rice, and a vegetable. If you eat out for every meal, the tracking still works, but accuracy drops and your wallet suffers. Even 3-4 home-cooked meals per week makes a meaningful difference.
-
-### The Honest Truth
-
-This system asks for about 10 hours per week of your life: 3 hours training, 15 minutes daily tracking, 2-3 hours meal prep, and the rest is sleep discipline and showing up. That's roughly 6% of your waking hours.
-
-In exchange, you get a body that works better, a brain that works better, more energy, better sleep, and a relationship with food based on data instead of guilt. The ROI is absurd. But only if you actually do it.
-
-**If you read those commitments and thought "yes" — let's set you up.**
+That's it. ~10 hours a week, 6% of your waking life. If you read that and thought "yes" — let's go.
 
 ---
 
