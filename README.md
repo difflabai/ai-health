@@ -1,6 +1,8 @@
-# The Health System: AI-Powered Fitness Coach in Your Pocket
+# Get Healthy With Claude
 
-A complete health optimization system powered by Claude. It builds your personalized plan (calories, macros, training program, supplements), then runs as a daily macro tracker and meal solver you use in under 60 seconds.
+Hollywood stars had live-in chefs. Elite athletes had full-time trainers five days a week. And they were *less* effective than what you're about to set up in 30 minutes.
+
+AI just replaced the personal trainer, the nutritionist, and the meal prep chef — and it's better, because it does the math perfectly every single time. You bring the discipline and the routine. Claude handles everything else.
 
 **This is not an app.** It's a Claude Project — a persistent AI workspace with your health plan baked into its instructions. You talk to it in plain English. It does the math.
 
