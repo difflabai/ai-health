@@ -65,8 +65,8 @@ It runs a mathematical solver that tells you exactly how many grams of each ingr
 2. Upload both `.skill` files from this repo:
    - [`health-strategy.skill`](health-strategy.skill) — one-time setup interview
    - [`daily-macros.skill`](daily-macros.skill) — daily macro tracker and meal solver
-
-That's it. Both skills are now available in every Claude conversation.
+3. Create a new project at [claude.ai/projects](https://claude.ai/projects), then start a conversation and tell Claude: **"Use the health strategy skill"** — it will interview you and generate your personalized health plan
+4. Paste the generated health plan into your project's instructions — now every conversation in that project knows your targets and the daily macros skill just works
 
 ---
 
