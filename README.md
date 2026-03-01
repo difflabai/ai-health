@@ -85,51 +85,19 @@ It runs a mathematical solver that tells you exactly how many grams of each ingr
 - Photos of yourself (front + side, shirtless or fitted clothing) for body fat estimation
 - Your basic stats: age, sex, height, current weight
 
-### Step 1: Create a Claude Project
+### Step 1: Run the Health Strategy Interview (One-Time Setup)
 
-1. Go to [claude.ai](https://claude.ai)
-2. In the left sidebar, find **Projects** (you may need to scroll down)
-3. Click **+ Create Project** (or **New Project**)
-4. Name it something like **"Health System"**
-5. You're now inside your project. You'll see a section for **Project Instructions** (sometimes labeled "Custom Instructions" or similar)
-
-### Step 2: Paste the Project Instructions
-
-1. Open the file called `project-instructions.md` that came with this guide
-2. Copy the **entire contents** of that file
-3. Paste it into your project's **Project Instructions** field
-4. Save
-
-### Step 3: Upload the Reference Files
-
-Your project has a **Project Knowledge** section (sometimes called "Files" or "Knowledge Base") where you can upload files Claude will reference.
-
-Upload these three files that came with this guide:
-
-- `ingredients.md` — Nutritional data for the meal solver
-- `exercise-library.md` — Movement options for your training program
-- `supplement-tiers.md` — Evidence-based supplement guide with products and dosing
-
-Just drag and drop them, or click the upload button.
-
-### Step 4: Run the Health Strategy Interview
-
-1. Start a new conversation inside your project
-2. Type: **"Set up my health plan"**
+1. Install the [`health-strategy.skill`](health-strategy.skill) skill
+2. Start a conversation and type: **"Set up my health plan"**
 3. Claude will walk you through the interview:
    - It'll ask for photos and stats first
    - Then goals, equipment, schedule, constraints
    - It'll confirm its understanding before generating anything
-4. At the end, Claude will produce a document called something like **"Health Project Instructions"** or **"Your Personalized Plan"**
-5. **Copy the entire contents of that document**
-6. Go back to your Project Instructions and **paste it at the bottom**, below the existing instructions
-7. Save
+4. At the end, Claude will produce your personalized health plan — calorie targets, macro splits, training program, and supplement schedule
 
-**You now have a fully configured health system.** Every new conversation in this project knows your exact calorie targets, macro splits, training program, and supplement schedule.
+### Step 2: Start Using It Daily
 
-### Step 5: Start Using It Daily
-
-Open a new conversation in your project anytime you want to track food:
+Install the [`daily-macros.skill`](daily-macros.skill) skill, then open a conversation anytime you want to track food:
 
 - **"Count my macros: [list what you ate]"**
 - **"Solve my last meal"** (after counting, to figure out your final meal)
@@ -164,13 +132,11 @@ If you have recent DEXA scan or BodPod results, Claude will accept those instead
 
 ## Files in This Package
 
-| File | What It Is | Where It Goes |
-|------|-----------|--------------|
-| `README.md` | This guide (you're reading it) | Keep for reference |
-| `project-instructions.md` | The brain of the system | Paste into Project Instructions |
-| `ingredients.md` | Nutritional data per gram for common foods | Upload to Project Knowledge |
-| `exercise-library.md` | Movement options by equipment tier | Upload to Project Knowledge |
-| `supplement-tiers.md` | Evidence-based supplement protocol | Upload to Project Knowledge |
+| File | What It Is |
+|------|-----------|
+| `README.md` | This guide (you're reading it) |
+| [`health-strategy.skill`](health-strategy.skill) | Interviews you and builds your personalized health plan (one-time setup) |
+| [`daily-macros.skill`](daily-macros.skill) | Daily macro tracker and meal solver (ongoing use) |
 
 ---
 
