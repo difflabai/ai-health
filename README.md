@@ -23,11 +23,8 @@ Total time cost: ~10 hours a week. Three hours training, a few hours cooking, a 
 ## What You're Signing Up For
 
 - [ ] **Train 3x per week.** Same simple workout every time. Just show up.
-- [ ] **Track your food daily for 90 days.** Tell Claude what you ate. 2 minutes.
-- [ ] **Buy a kitchen scale.** $12. This is how you stop lying to yourself about portions.
-- [ ] **Weigh yourself weekly.** Same day, same time, morning. One data point. Don't obsess.
+- [ ] **Track your food daily.** Tell Claude what you ate. 2 minutes.
 - [ ] **Sleep 7+ hours.** You can't out-train bad sleep.
-- [ ] **Stick with it for 6 months.** Not perfectly — consistently. One bad day in 180 is noise.
 
 That's it. ~10 hours a week, 6% of your waking life. If you read that and thought "yes" — let's go.
 
