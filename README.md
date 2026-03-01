@@ -67,9 +67,7 @@ Start a new [Claude project](https://claude.ai), open a conversation, and say **
 This is the skill you'll use every day. Open a conversation in your project anytime you eat:
 
 - **"Count my macros: [list what you ate]"**
-- **"Solve my last meal"** (after counting, to figure out your final meal)
-- **"Solve my last meal with chicken, rice, and almonds"** (if you want to specify ingredients)
-- **"Ate: [food list]. Solve remaining with chicken, rice, almonds"** (count + solve in one shot)
+- **"Solve my last meal with chicken, rice, and almonds"** (to figure out your final meal)
 
 Because your health plan is in the project instructions, every conversation already knows your calorie and macro targets. You just talk to it.
 
