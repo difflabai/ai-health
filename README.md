@@ -26,7 +26,7 @@ Total time cost: ~10 hours a week. Three hours training, a few hours cooking, a 
 - [ ] **Track your food daily.** Log every calorie — the AI doesn't judge. 2 minutes.
 - [ ] **Sleep 7+ hours.** You can't out-train bad sleep.
 
-That's it. ~10 hours a week, 6% of your waking life. If you read that and thought "yes" — let's go.
+That's it. If you read that and thought "yes" — let's go.
 
 ---
 
@@ -111,6 +111,6 @@ If you have recent DEXA scan or BodPod results, Claude will accept those instead
 
 ## Credits
 
-Built as a Claude Skills system. The health strategy interview, macro tracking, and linear programming meal solver were designed as complementary tools: one builds the plan, the other operates it daily.
+Built by [Martyn Garcia](https://www.linkedin.com/in/martyngarcia/) at [DiffLab.AI](https://difflab.ai) — we help organizations build AI systems that actually work. If you're thinking about AI transformation for your team, [let's talk](https://difflab.ai).
 
 If you find this useful, the best thing you can do is actually use it for 6 months and tell someone else about it after you have results.
