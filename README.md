@@ -23,8 +23,7 @@ Total time cost: ~10 hours a week. Three hours training, a few hours cooking, a 
 ## What You're Signing Up For
 
 - [ ] **Train 3x per week.** Same simple workout every time. Just show up.
-- [ ] **Track your food daily.** Tell Claude what you ate. 2 minutes.
-- [ ] **Be honest with the AI.** Log every calorie. It doesn't judge. The math only works if the inputs are real.
+- [ ] **Track your food daily.** Log every calorie — the AI doesn't judge. 2 minutes.
 - [ ] **Sleep 7+ hours.** You can't out-train bad sleep.
 
 That's it. ~10 hours a week, 6% of your waking life. If you read that and thought "yes" — let's go.
