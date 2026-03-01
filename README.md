@@ -29,33 +29,9 @@ That's it. ~10 hours a week, 6% of your waking life. If you read that and though
 
 ## What This System Does
 
-**Phase 1: Build Your Plan (one-time, ~30 minutes)**
+**One-time (~30 min):** Claude interviews you — photos, stats, goals, constraints — and generates a personalized health plan with calorie/macro targets, a training program, and supplements. You paste it into a Claude Project.
 
-You have a conversation with Claude where it acts as your coach. It will:
-
-- Ask for photos and basic stats (age, sex, height, weight)
-- Estimate your body fat percentage
-- Ask about your goals, equipment, schedule, and constraints
-- Calculate your TDEE (how many calories you burn)
-- Determine whether you should cut, bulk, or recomp
-- Set your daily calorie and macro targets
-- Build your training program (8 exercises, same workout every session)
-- Design your supplement protocol with specific products and doses
-- Generate a shopping list with links and costs
-
-At the end, Claude produces a personalized health plan document. You paste this into the project — and now every future conversation knows your exact targets.
-
-**Phase 2: Daily Operations (60 seconds per day, ongoing)**
-
-Every day (or whenever you eat), you open the project and tell Claude what you ate:
-
-> "Count my macros: 3 eggs, toast with butter, protein shake"
-
-It instantly shows you a table: what you've eaten, your targets, and what's remaining. Then you can say:
-
-> "Solve my last meal with chicken, rice, and almonds"
-
-It runs a mathematical solver that tells you exactly how many grams of each ingredient to eat to perfectly hit your remaining macro targets. Weigh it out, eat it, done.
+**Every day (~60 sec):** Tell Claude what you ate. It tracks your macros and solves your final meal — exactly how many grams of each ingredient to hit your targets perfectly.
 
 **That's the whole daily workflow.** List food → get numbers → solve final meal → eat.
 
