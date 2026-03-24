@@ -110,6 +110,7 @@ If you have recent DEXA scan or BodPod results, Claude will accept those instead
 | `README.md` | This guide (you're reading it) |
 | [`health-strategy.skill`](health-strategy.skill) | Interviews you and builds your personalized health plan (one-time setup) |
 | [`daily-macros.skill`](daily-macros.skill) | Daily macro tracker and meal solver (ongoing use) |
+| [`exercise-coach-tui`](https://github.com/difflabai/exercise-coach-tui) | **Optional.** Workout planning tool — optimizes exercise timing and structure. Get the basics down first, then add this when you're ready to level up your training. |
 
 ---
 
