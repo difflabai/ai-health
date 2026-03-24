@@ -75,12 +75,6 @@ That's it. You're running the system.
 
 ---
 
-## Exercise
-
-[Exercise Coach TUI](https://github.com/difflabai/exercise-coach-tui) is a terminal workout player that pairs with this system. It uses its own skill to turn your training program into workout "cassettes" — structured JSON files that the TUI plays back with timers, set tracking, and voice coaching. Load a cassette, press play, follow the prompts.
-
----
-
 ## Common Questions
 
 **"What if I eat something and don't know the exact amount?"**
