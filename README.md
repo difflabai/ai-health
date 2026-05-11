@@ -55,7 +55,7 @@ That's it. If you read that and thought "yes" — let's go.
 
 ### What You Need
 
-- A Claude account (free works, Pro is better — higher message limits)
+- A Claude account, Opus recommended (free works, Pro is better — higher message limits)
 - 30 minutes, photos of yourself (front + side), and your basic stats (age, sex, height, weight)
 
 ### Step 1: Run the Health Strategy Interview (One-Time)
